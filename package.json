@@ -1,0 +1,14 @@
+{
+  "name": "hank-kanban",
+  "version": "1.0.0",
+  "description": "Kanban board for Hank's TODO list",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hank 🚀",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

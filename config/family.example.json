@@ -1,0 +1,6 @@
+[
+  { "id": "dad", "name": "Dad", "role": "Parent", "color": "#4ecdc4" },
+  { "id": "mom", "name": "Mom", "role": "Parent", "color": "#ff6b6b" },
+  { "id": "kid1", "name": "Kid1", "role": "Child", "color": "#feca57" },
+  { "id": "kid2", "name": "Kid2", "role": "Child", "color": "#a29bfe" }
+]

@@ -1,0 +1,4 @@
+config/family.json
+node_modules/
+*.log
+.env
